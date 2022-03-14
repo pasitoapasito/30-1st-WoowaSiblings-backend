@@ -42,11 +42,11 @@
 
 ## 구현목표
 ### 필수구현사항
-* SignUp/SignIn
-* SignIn Decorator
-* Product List
-* Product Detail
-* Cart
+* SignUp/SignIn:100:
+* SignIn Decorator:100:
+* Product List:100:
+* Product Detail:100:
+* Cart:100:
   
 ### 추가구현사항(추가 예정)
 * Order
