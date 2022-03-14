@@ -51,6 +51,7 @@
 ### 추가구현사항(추가 예정)
 * Order
 * Review
+* Mypage
 
 ### 활용 라이브러리
 * django-cors-headers
